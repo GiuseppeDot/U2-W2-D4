@@ -1,0 +1,41 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.backgroung-color {
+  background-color: #7550fe;
+}
+
+.text-color {
+  color: #bba7ff;
+}
+
+.button-style-one {
+  background-color: #1acb98;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  border: none;
+  padding: 15px 15px;
+  border-radius: 5px;
+}
+.button-style-one :hover {
+  background-color: #073d2e;
+}
+
+.button-style-two {
+  background-color: #ffffff;
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+  border: none;
+  padding: 15px 15px;
+  border-radius: 5px;
+}
+.button-style-two :hover {
+  background-color: #a6a6a6;
+}
+
+.bg-icons {
+  background-color: #ffeeda;
+}/*# sourceMappingURL=index.css.map */
